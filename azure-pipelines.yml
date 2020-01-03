@@ -62,4 +62,4 @@ stages:
         SUBCOMPONENT: azure-vote
         YAML_PATH: azureVoteFront.deployment.imageTag
         YAML_PATH_VALUE: $(Build.BuildId)
-        REPO: https://github.com/<your user name>/azure-voting-app.git
+        REPO: https://github.com/jasonhornatcrowe/azure-voting-app.git
